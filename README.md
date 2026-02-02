@@ -1,5 +1,4 @@
-# Boss-MD
-Boss-md world best devolper
+# BOSS-MD | WORLD'S BEST DEVELOPER
 <p align="center">
   <img src="https://files.catbox.moe/o0xuiu.jpg" alt="BOSS-MD" width="1000"/>
 </p>
@@ -42,75 +41,96 @@ Boss-md world best devolper
   <b>A multi-device WhatsApp bot maintained by <span style="color:#00FFFF">BOSS</span> 🚀</b>  
 </p>  
 
----  
+---
 
-## ⭐ FORK & STAR  
+## 🚀 QUICK DEPLOYMENT
+### ⭐ FORK & STAR  
 <p align="center">  
   <a href="https://github.com/bosstech-collab/Boss-md-/fork">  
-    <img src="https://img.shields.io/badge/Fork-Repo-ff00ff?style=for-the-badge&logo=github&logoColor=white" />  
+    <img src="https://img.shields.io/badge/FORK-REPO-ff00ff?style=for-the-badge&logo=github&logoColor=white" />  
   </a>  
   <a href="https://github.com/bosstech-collab/Boss-md-/stargazers">  
     <img src="https://img.shields.io/github/stars/rehmanabdul78600786-ctrl/boss-MD-786?style=for-the-badge&color=gold&logo=github" />  
   </a>
 </p>  
-<p align="center">💡 Don’t forget to <b>Fork</b> & <b>Star ⭐</b> this repo before using!</p>  
 
----  
-
-## 🔑 GET SESSION  
+### 🔑 GET SESSION  
 <p align="center">  
   <a href="https://pairing-site-boss-874t.onrender.com/pair">  
-    <img src="https://img.shields.io/badge/Get-Session_ID-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white" />  
+    <img src="https://img.shields.io/badge/GET-SESSION_ID-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white" />  
   </a>  
 </p>  
-<p align="center">📲 Click above button to generate your <b>Session ID</b> (required for deployment).</p>  
 
----  
-
-## 🚀 DEPLOY NOW  
+### 🚀 DEPLOY NOW  
 <p align="center">  
   <a href="https://dashboard.heroku.com/new?template=https://github.com/bosstech-collab/Boss-md-/tree/main?tab=readme-ov-file">  
-    <img src="https://img.shields.io/badge/Deploy-Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white" />  
+    <img src="https://img.shields.io/badge/DEPLOY-HEROKU-7952B3?style=for-the-badge&logo=heroku&logoColor=white" />  
   </a>  
 </p>  
-<p align="center">⚡ Deploy your bot on <b>Heroku</b> easily.</p>  
 
----  
+---
 
-## 📡 WHATSAPP CONNECTS  
+## 📱 WHATSAPP CONNECTS  
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VbC19OTHFxP2mYyAMy1G">  
-    <img src="https://img.shields.io/badge/Join-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />  
+    <img src="https://img.shields.io/badge/JOIN-CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />  
   </a>  
   <a href="https://api.whatsapp.com/send?phone=+923487690170&text=Hello">  
-    <img src="https://img.shields.io/badge/Contact-Owner-ff0000?style=for-the-badge&logo=whatsapp&logoColor=white" />  
+    <img src="https://img.shields.io/badge/CONTACT-OWNER-ff0000?style=for-the-badge&logo=whatsapp&logoColor=white" />  
   </a>  
 </p>  
 
----  
+---
 
-## ⚡ FEATURES  
-- ✅ Auto Reply    
-- ✅ Media Downloader (FB, Insta, TikTok etc.)    
-- ✅ Group Management    
-- ✅ Easy Setup    
-- ✅ 24/7 Uptime    
+## ⚡ FEATURES HIGHLIGHTS
+### 🎵 MUSIC & MEDIA
+- ✅ Auto Reply System  
+- ✅ YouTube MP3/MP4 Downloader  
+- ✅ Facebook/Instagram/TikTok Downloader  
+- ✅ High Quality Audio Conversion  
 
----  
+### 👥 GROUP MANAGEMENT  
+- ✅ Auto Welcome/Goodbye  
+- ✅ Anti-Link Protection  
+- ✅ Auto Sticker Removal  
+- ✅ Admin Tools Panel  
 
-## ⚠ REMINDER  
-- ❌ This bot is not affiliated with WhatsApp Inc.    
-- ⚡ Misuse may ban your number permanently.    
-- 🛡 Owner is not responsible for any misuse.    
+### ⚡ UTILITIES  
+- ✅ AI Chat Assistant  
+- ✅ Image/Video Editing  
+- ✅ Text to Speech  
+- ✅ QR Code Generator  
 
----  
+### 🔧 DEVELOPER TOOLS  
+- ✅ Pairing Code System (.pair)  
+- ✅ Bot Status Check (.alive)  
+- ✅ Repository Info (.repo)  
+- ✅ Command Menu (.menu)  
+
+---
+
+## 📋 COMMAND LIST
+
+---
+
+## ⚠️ IMPORTANT NOTES
+- ❌ This bot is not affiliated with WhatsApp Inc.  
+- ⚡ Misuse may ban your number permanently.  
+- 🛡️ Owner is not responsible for any misuse.  
+- 💡 Use for learning & entertainment only  
+
+---
 
 ## 📝 DISCLAIMER  
 This bot is made for *learning & fun purposes only*.  
 Do not sell, misuse, or use without giving credits.  
 
----  
+---
 
 <h2 align="center">  
   🌈✨ Thanks for using <span style="color:#00FFFF">BOSS-MD</span> ✨🌈  
 </h2>
+
+<p align="center">
+  <b>⚡ WORLD'S BEST WHATSAPP BOT ⚡</b>
+</p>
