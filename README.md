@@ -1,3 +1,20 @@
+<!-- GLOWING DIVIDER -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=800&height=50&lines=🚀+WELCOME+TO+BOSS-MD+🚀" alt="Animated Header">
+
+</div>
+
+<div align="center">
+
+<!-- ANIMATED BANNER -->
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<h1 align="center">
+<img src="https://github.com/BOSS-MD/BOSS-MD/blob/main/name.svg" width="400" alt="BOSS-MD Logo"/>
+
+</h1>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<h1 align="center">
+
 <div align="center">
   <!-- ============================ -->
   <!-- 🌌 PREMIUM GLOW BANNER START -->
