@@ -1,0 +1,32 @@
+<svg width="400" height="100" viewBox="0 0 400 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes glow {
+      0% { filter: drop-shadow(0 0 5px #FF00FF) drop-shadow(0 0 10px #00FFFF); }
+      50% { filter: drop-shadow(0 0 20px #FF00FF) drop-shadow(0 0 30px #00FFFF); }
+      100% { filter: drop-shadow(0 0 5px #FF00FF) drop-shadow(0 0 10px #00FFFF); }
+    }
+    .boss-title {
+      animation: glow 3s ease-in-out infinite;
+      font-family: 'Orbitron', sans-serif;
+      font-weight: 900;
+      font-size: 50px;
+    }
+  </style>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" 
+        class="boss-title" fill="url(#gradient)">
+    BOSS-MD
+  </text>
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF00FF">
+        <animate attributeName="stop-color" values="#FF00FF;#00FFFF;#FF00FF" dur="3s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#00FFFF">
+        <animate attributeName="stop-color" values="#00FFFF;#FF00FF;#00FFFF" dur="3s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#FF00FF">
+        <animate attributeName="stop-color" values="#FF00FF;#00FFFF;#FF00FF" dur="3s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+</svg>
