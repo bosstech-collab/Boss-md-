@@ -16,6 +16,22 @@
 <h1 align="center">
 
 <div align="center">
+
+  </h1>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<h1 align="center">
+
+<!-- GLOWING MAIN BADGE -->
+
+<img src="https://img.shields.io/badge/🔥_ULTRA_PRO_MAX_EDITION-FF0000?style=for-the-badge&logo=starship&logoColor=white&labelColor=000000&animation=pulse" alt="Ultra Pro Max" />
+
+</div>
+
+---
+
+<!-- FLOATING FEATURES GRID -->
+
+<div align="center">
   <!-- ============================ -->
   <!-- 🌌 PREMIUM GLOW BANNER START -->
   <!-- ============================ -->
