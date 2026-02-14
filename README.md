@@ -229,7 +229,7 @@ npm run dev
   <table align="center" style="background: rgba(0,0,0,0.9); border-radius: 40px; border: 3px solid magenta; padding: 20px; width: 90%;">
     <tr>
       <td align="center" width="50%">
-        <h3>✨ **Yasiya Madhuranga**</h3>
+        <h3>✨ **BOSS-MD X BRO ARSLAN**</h3>
         <p><em>Founder & Lead Developer</em></p>
         <img src="https://avatars.githubusercontent.com/u/192448037?v=4" width="150" style="border-radius: 50%; border: 5px solid #00ffff; box-shadow: 0 0 30px cyan;">
         <pre style="background: #111; padding: 10px; border-radius: 15px;">
@@ -251,7 +251,7 @@ Expertise: System Architecture
 Passion: Cutting-edge Tech</pre>
         <p>
           <a href="https://github.com/Sadeepa206"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-          <a href="https://wa.me/+94740952096"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+          <a href="https://wa.me/+923076411099"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
         </p>
       </td>
     </tr>
@@ -359,7 +359,7 @@ Passion: Cutting-edge Tech</pre>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square" alt="Made with Love">
-    <img src="https://img.shields.io/badge/Sri%20Lanka-🇱🇰-green?style=flat-square" alt="Made in Sri Lanka">
+    <img src="https://img.shields.io/badge/Sri%20Lanka-🇱🇰-green?style=flat-square" alt="Made in Pakistan made fromBOSS-MD">
     <img src="https://img.shields.io/badge/Open%20Source-💝-orange?style=flat-square" alt="Open Source">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=bosstech-collab.Boss-md-" alt="Visitors">
   </p>
