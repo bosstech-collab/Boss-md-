@@ -192,69 +192,7 @@
       <img src="https://img.shields.io/badge/JOIN-GROUP-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black" />
     </a>
   </p>
-
-  <!-- ============================ -->
-  <!-- ⚡ FEATURES GRID              -->
-  <!-- ============================ -->
-  <h2>⚡ Features</h2>
-  <table align="center" border="1" cellpadding="15" cellspacing="0" style="border: 2px solid magenta; border-radius: 30px; background: rgba(0,0,0,0.8); width: 90%;">
-    <tr>
-      <td align="center" width="33%"><b>✅ Auto Reply</b></td>
-      <td align="center" width="33%"><b>✅ Media Downloader</b></td>
-      <td align="center" width="33%"><b>✅ Group Management</b></td>
-    </tr>
-    <tr>
-      <td align="center"><b>✅ Easy Setup</b></td>
-      <td align="center"><b>✅ 24/7 Uptime</b></td>
-      <td align="center"><b>✅ Multi-Device</b></td>
-    </tr>
-    <tr>
-      <td align="center"><b>✅ AI-Powered</b></td>
-      <td align="center"><b>✅ Anti-Ban System</b></td>
-      <td align="center"><b>✅ 100+ Commands</b></td>
-    </tr>
-  </table>
-
-  <!-- ============================ -->
-  <!-- 📜 COMMANDS SECTION           -->
-  <!-- ============================ -->
-  <h2>📜 Core Commands</h2>
-
-  <table align="center" border="1" cellpadding="12" style="border: 2px solid cyan; border-radius: 20px; width: 95%;">
-    <tr><th colspan="2" style="color: cyan;">⚙️ SYSTEM COMMANDS</th></tr>
-    <tr><td><code>.pair &lt;number&gt;</code></td><td>Get pairing code for bot cloning</td></tr>
-    <tr><td><code>.repo</code></td><td>Show source code repository</td></tr>
-    <tr><td><code>.alive</code></td><td>Check bot status and uptime</td></tr>
-    <tr><td><code>.menu</code></td><td>Display all available commands</td></tr>
-  </table>
-  <br>
-
-  <table align="center" border="1" cellpadding="12" style="border: 2px solid orange; border-radius: 20px; width: 95%;">
-    <tr><th colspan="2" style="color: orange;">🎵 MEDIA DOWNLOADER</th></tr>
-    <tr><td><code>.play &lt;song&gt;</code></td><td>Download youtube music (mp3)</td></tr>
-    <tr><td><code>.song &lt;name&gt;</code></td><td>Fast audio download</td></tr>
-    <tr><td><code>.ytdl &lt;link&gt;</code></td><td>Download youtube video</td></tr>
-    <tr><td><code>.fb &lt;link&gt;</code></td><td>Download facebook video</td></tr>
-  </table>
-  <br>
-
-  <table align="center" border="1" cellpadding="12" style="border: 2px solid lime; border-radius: 20px; width: 95%;">
-    <tr><th colspan="2" style="color: lime;">👥 GROUP TOOLS</th></tr>
-    <tr><td><code>.add &lt;number&gt;</code></td><td>Add member to group</td></tr>
-    <tr><td><code>.kick @user</code></td><td>Remove member from group</td></tr>
-    <tr><td><code>.promote @user</code></td><td>Make user admin</td></tr>
-    <tr><td><code>.demote @user</code></td><td>Remove user admin</td></tr>
-  </table>
-  <br>
-
-  <table align="center" border="1" cellpadding="12" style="border: 2px solid violet; border-radius: 20px; width: 95%;">
-    <tr><th colspan="2" style="color: violet;">🎨 UTILITIES</th></tr>
-    <tr><td><code>.sticker</code></td><td>Convert image to sticker</td></tr>
-    <tr><td><code>.toimg</code></td><td>Convert sticker to image</td></tr>
-    <tr><td><code>.attp &lt;text&gt;</code></td><td>Create colorful text</td></tr>
-    <tr><td><code>.tts &lt;text&gt;</code></td><td>Text to speech conversion</td></tr>
-  </table>
-
+  
   <!-- ============================ -->
   <!-- ⚠️ REMINDER & DISCLAIMER      -->
   <!-- ============================ -->
