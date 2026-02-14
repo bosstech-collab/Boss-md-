@@ -35,7 +35,7 @@
   
   <!-- 💫 SUPER ANIMATED BANNER -->
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=55&duration=4000&pause=500&color=FF00FF&center=true&vCenter=true&repeat=true&width=1200&height=120&lines=⚡+BOSS-MD+Powerful+Bot+⚡;Next+Gen+WhatsApp+AI+Bot;Fast+%7C+Secure+%7C+Multi-Device;Deploy+Now+and+Rule+🚀;🔥+Made+in+Sri+Lanka+🔥" alt="BOSS-MD Animated Banner" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=55&duration=4000&pause=500&color=FF00FF&center=true&vCenter=true&repeat=true&width=1200&height=120&lines=⚡+BOSS-MD+Powerful+Bot+⚡;Next+Gen+WhatsApp+AI+Bot;Fast+%7C+Secure+%7C+Multi-Device;Deploy+Now+and+Rule+🚀;🔥+Made+in+Pakistan+Me aik hi Hain BOSS-MD BRAMD BOT+🔥" alt="BOSS-MD Animated Banner" />
   </h1>
 
   <!-- 🌈 Premium Divider -->
