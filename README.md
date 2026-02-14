@@ -202,12 +202,7 @@
     <b>⚡ Misuse may ban your number permanently.</b><br>
     <b>🛡️ Owner is not responsible for any misuse.</b>
   </p>
-
-  <h2>📝 Disclaimer</h2>
-  <p>
-    <b>This bot is made for learning & fun purposes only.</b>
-  </p>
-
+  
   <h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&lines=🌈✨+Thanks+for+using+BOSS-MD+✨🌈" alt="Thanks">
   </h2>
