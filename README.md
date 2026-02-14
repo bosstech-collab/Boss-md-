@@ -6,13 +6,13 @@
 <!-- ANIMATED BANNER - ARSLAN EXACT STYLE -->
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&duration=4000&pause=500&color=FF00FF&center=true&vCenter=true&width=700&height=120&lines=✨+𝐁𝐎𝐒𝐒-𝐌𝐃+✨;⚡+𝐁𝐎𝐒𝐒-𝐌𝐃+𝐏𝐑𝐎+⚡;🔥+𝐁𝐎𝐒𝐒-𝐌𝐃+𝐌𝐀𝐗+🔥;💫+𝐁𝐎𝐒𝐒-𝐌𝐃+𝐕3.5+💫" alt="BOSS-MD Animated Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=55&duration=4000&pause=500&color=FF00FF&center=true&vCenter=true&width=700&height=120&lines=✨+𝐁𝐎𝐒𝐒-𝐌𝐃+✨;⚡+𝐁𝐎𝐒𝐒-𝐌𝐃+𝐏𝐑𝐎+⚡;🔥+𝐁𝐎𝐒𝐒-𝐌𝐃+𝐌𝐀𝐗+🔥;💫+𝐁𝐎𝐒𝐒-𝐌𝐃+𝐕7.5+💫" alt="BOSS-MD Animated Banner"/>
 </h1>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <!-- GLOWING MAIN BADGE - ARSLAN EXACT -->
 <div align="center">
-  <img src="https://img.shields.io/badge/🔥_BOSS_MD_ULTRA_PRO_MAX_EDITION-FF00FF?style=for-the-badge&logo=starship&logoColor=white&labelColor=000000" alt="BOSS-MD Ultra Pro Max" />
+  <img src="https://img.shields.io/badge/🔥_BOSS_MD_ULTRA_PRO_MAX_EDITION-FF00FF?style=for-the-badge&logo=starship&logoColor=white&labelColor=000000" alt="BOSS-MD Ultra Pro" />
 </div>
 
 ---
@@ -22,7 +22,7 @@
   <img src="https://files.catbox.moe/o0xuiu.jpg" alt="BOSS-MD" width="850" style="border-radius: 30px; border: 4px solid #FF00FF; box-shadow: 0 0 50px #00FFFF, 0 0 100px #FF00FF;" />
   
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=50&duration=4000&pause=500&color=FF00FF&center=true&vCenter=true&width=600&lines=𝐁𝐎𝐒𝐒-𝐌𝐃;𝐔𝐋𝐓𝐑𝐀+𝐏𝐑𝐎+𝐌𝐀𝐗;𝐖𝐎𝐑𝐊𝐈𝐍𝐆+𝐁𝐎𝐓;⚡+𝐎𝐍𝐋𝐈𝐍𝐄+⚡" alt="BOSS-MD Typing"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=50&duration=4000&pause=500&color=FF00FF&center=true&vCenter=true&width=600&lines=𝐁𝐎𝐒𝐒-𝐌𝐃;𝐔𝐋𝐓𝐑𝐀+𝐏𝐑𝐎;𝐖𝐎𝐑𝐊𝐈𝐍𝐆+𝐁𝐎𝐓;⚡+𝐎𝐍𝐋𝐈𝐍𝐄+⚡" alt="BOSS-MD Typing"/>
   </h1>
 </div>
 
