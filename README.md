@@ -7,8 +7,15 @@
 
 <!-- ANIMATED BANNER -->
 
+<!-- GLOWING DIVIDER -->
 <div align="center">
-  <img src="https://files.catbox.moe/o0xuiu.jpg" width="400" style="border-radius: 20px; box-shadow: 0 0 30px cyan;" alt="BOSS-MD"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF00FF&background=000000&center=true&vCenter=true&width=800&height=50&lines=🚀+WELCOME+TO+BOSS-MD+🚀;⚡+BOSS-MD+PRO+MAX+⚡;💫+BOSS-MD+IS+WORKING+💫" alt="BOSS-MD Header">
+</div>
+
+<!-- AUR AGAR ANIMATED GLOW EFFECT CHAHIYE -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&repeat=true&width=900&height=100&lines=✨+𝐁𝐎𝐒𝐒-𝐌𝐃+✨;🔥+𝐔𝐋𝐓𝐑𝐀+𝐏𝐑𝐎+𝐌𝐀𝐗+🔥;💫+𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑+𝐁𝐎𝐓+💫;⚡+𝐌𝐀𝐃𝐄+𝐈𝐍+𝐒𝐑𝐈+𝐋𝐀𝐍𝐊𝐀+⚡" alt="BOSS-MD Glowing Banner">
+</div>
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&duration=4000&pause=500&color=FF00FF&center=true&vCenter=true&width=600&lines=𝐁𝐎𝐒𝐒-𝐌𝐃;𝐔𝐋𝐓𝐑𝐀+𝐏𝐑𝐎+𝐌𝐀𝐗;𝐖𝐎𝐑𝐊𝐈𝐍𝐆+𝐁𝐎𝐓;⚡+𝐎𝐍𝐋𝐈𝐍𝐄+⚡" alt="BOSS-MD Typing"/>
   </h1>
