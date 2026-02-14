@@ -67,4 +67,127 @@ npm start
 
 # 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥 𝕄𝕠𝕕𝕖
 npm run dev
+
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarkYasiyaNew)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+94762714730)
+
+</td>
+<td align="center" width="50%">
+
+### ⭐ **Sadeepa Chamudith**
+*Co-Founder & Tech Lead*
+
+<img src="https://avatars.githubusercontent.com/u/192448037?v=4" width="120" style="border-radius: 50%; border: 4px solid #f093fb;">
+
+```yaml
+Role: Technical Innovator
+Expertise: System Architecture
+Passion: Cutting-edge Tech
+```
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sadeepa206)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+94740952096)
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=2000&color=4ECDC4&center=true&vCenter=true&width=800&height=30&lines=🎯+Committed+to+Excellence+✨;🤖+Shaping+the+Future+of+Automation+🚀;🤝+Building+Dreams+into+Reality+💫;🌟+Your+Success+is+Our+Mission+🎊" alt="Team Values">
+</div>
+
+---
+
+## ⚡ **Core Features**
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Powerful%20Features&fontSize=35&fontColor=fff&animation=twinkling" width="500">
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+### 🤖 **Smart Automation**
+- **AI-Powered Responses** - Advanced natural language processing
+- **Custom Commands** - Create unlimited personalized commands  
+- **Auto Replies** - Intelligent message handling 24/7
+- **Scheduled Messages** - Time-based automation
+
+### 🔐 **Security & Privacy** 
+- **End-to-End Encryption** - Military-grade security
+- **Privacy Protection** - Your data stays yours
+- **Secure API Integration** - Safe external connections
+- **Regular Security Updates** - Always protected
+
+</td>
+<td width="50%">
+
+### 🎨 **User Experience**
+- **Modern UI/UX** - Beautiful, intuitive interface
+- **Multi-Language Support** - Global accessibility
+- **Responsive Design** - Works on any device
+- **Dark/Light Themes** - Customizable appearance
+
+### ⚡ **Performance**
+- **Lightning Fast** - Optimized for speed
+- **99.9% Uptime** - Reliable and stable
+- **Auto Backups** - Never lose your data
+- **Cloud Integration** - Seamless sync across devices
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 **Statistics**
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DarkYasiyaNew&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=C9D1D9" width="400">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkYasiyaNew&theme=tokyonight&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=FFD700&currStreakLabel=4ECDC4" width="400">
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkYasiyaNew&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=C9D1D9" width="400">
+</div>
+
+---
+
+## 💝 **Support the Project**
+
+<div align="center">
+
+If YASIYA-MD has helped you, consider supporting our work:
+
+<a href="https://github.com/bosstech-collab/Boss-md-">
+  <img src="https://img.shields.io/badge/⭐%20Star%20on%20GitHub-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="Star on GitHub">
+</a>
+<br><br>
+<a href="#">
+  <img src="https://img.shields.io/badge/☕%20Buy%20me%20a%20coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=1a1a2e" alt="Buy me a coffee">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer&text=Thank%20You!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70&desc=Made%20with%20❤️%20in%20Sri%20Lanka%20🇱🇰&descAlignY=88&descSize=14" />
+
+<!-- Final Animated Message -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=1000&color=4ECDC4&center=true&vCenter=true&width=800&height=50&lines=🌟+Thank+you+for+choosing+BOSS-MD!+🌟;💫+Join+thousands+of+satisfied+users+💫;🚀+Start+your+automation+journey+today!+🚀" alt="Thank You Message">
+
+<br>
+
+**© 2026 BOSS-MD Team | Made with 💝 by passionate developers**
+
+<img src="https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square" alt="Made with Love">
+<img src="https://img.shields.io/badge/Sri%20Lanka-🇱🇰-green?style=flat-square" alt="Made in Sri Lanka">
+<img src="https://img.shields.io/badge/Open%20Source-💝-orange?style=flat-square" alt="Open Source">
+
+
