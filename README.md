@@ -30,7 +30,7 @@
   <!-- 🔥 Animated Holographic Image Frame -->
   <p align="center">
     <a href="https://github.com/Boss453-dev/Boss-md-Ai-BOT">
-      <img src="https://files.catbox.moe/o0xuiu.jpg" alt="BOSS-MD" width="850" style="border-radius: 30px; border: 4px solid #FF00FF; box-shadow: 0 0 50px #00FFFF, 0 0 100px #FF00FF;" />
+      <img src="https://files.catbox.moe/jl5wqr.jpg" alt="BOSS-MD" width="850" style="border-radius: 30px; border: 4px solid #FF00FF; box-shadow: 0 0 50px #00FFFF, 0 0 100px #FF00FF;" />
     </a>
   </p>
 
