@@ -9,7 +9,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=55&duration=4000&pause=500&color=FF00FF&center=true&vCenter=true&width=700&height=120&lines=✨+BOSS-MD+✨;⚡+BOSS-MD+PRO+⚡;🔥+BOSS-MD+MAX+🔥;💫+BOSS-MD+V3.5+💫" alt="BOSS-MD Animated Banner"/>
 </h1>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<h1 align="center">
+<img src="https://github.com/bosstech-collab/BOSS-MD/blob/main/name.svg" width="400" alt="BOSS-MD Logo"/>
+</h1>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<h1 align="center">
 <!-- GLOWING MAIN BADGE -->
 <div align="center">
   <img src="https://img.shields.io/badge/🔥_BOSS_MD_ULTRA_PRO_MAX_EDITION-FF00FF?style=for-the-badge&logo=starship&logoColor=white&labelColor=000000" alt="BOSS-MD Ultra Pro Max" />
