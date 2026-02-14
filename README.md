@@ -364,7 +364,7 @@ Passion: Cutting-edge Tech</pre>
   <!-- 🏆 FINAL FOOTER               -->
   <!-- ============================ -->
   <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:3333ff,100:00ffcc&height=150&section=footer&text=Thank%20You!&fontSize=50&fontColor=white&animation=twinkling&fontAlignY=70&desc=Made%20with%20❤️%20in%20Pakistan%20Boss%20🇱🇰&descAlignY=95&descSize=18" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:3333ff,100:00ffcc&height=150&section=footer&text=Thank%20You!&fontSize=50&fontColor=white&animation=twinkling&fontAlignY=70&desc=Made%20with%20❤️%20in%20Pakistan%20Boss%20🇵🇰&descAlignY=95&descSize=18" />
   </div>
 
   <!-- FINAL ANIMATED MESSAGE -->
