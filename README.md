@@ -7,11 +7,9 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=55&duration=4000&pause=500&color=FF00FF&center=true&vCenter=true&width=700&height=120&lines=✨+BOSS-MD+✨;⚡+BOSS-MD+PRO+⚡;🔥+BOSS-MD+MAX+🔥;💫+BOSS-MD+V3.5+💫" alt="BOSS-MD Animated Banner"/>
-</h1>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center">
-<img src="https://github.com/bosstech-collab/BOSS-MD/blob/main/name.svg" width="400" alt="BOSS-MD Logo"/>
+<img src="https://raw.githubusercontent.com/bosstech-collab/Boss-md/main/name.svg" width="400" alt="BOSS-MD Logo"/>
 </h1>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center">
