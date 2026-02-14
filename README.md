@@ -344,7 +344,7 @@ Passion: Cutting-edge Tech</pre>
   <!-- 🏆 FINAL FOOTER               -->
   <!-- ============================ -->
   <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=150&section=footer&text=Thank%20You!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=70&desc=Made%20with%20❤️%20in%20Sri%20Lanka%20🇱🇰&descAlignY=95&descSize=18" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=150&section=footer&text=Thank%20You!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=70&desc=Made%20with%20❤️%20in%20pakistan%20Boss%20🇱🇰&descAlignY=95&descSize=18" />
   </div>
 
   <!-- FINAL ANIMATED MESSAGE -->
@@ -359,7 +359,7 @@ Passion: Cutting-edge Tech</pre>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square" alt="Made with Love">
-    <img src="https://img.shields.io/badge/Sri%20Lanka-🇱🇰-green?style=flat-square" alt="Made in Pakistan made fromBOSS-MD">
+    <img src="https://img.shields.io/badge/Sri%20Lanka-🇱🇰-green?style=flat-square" alt="Made in Pakistan BOSS-MD">
     <img src="https://img.shields.io/badge/Open%20Source-💝-orange?style=flat-square" alt="Open Source">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=bosstech-collab.Boss-md-" alt="Visitors">
   </p>
