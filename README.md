@@ -4,7 +4,11 @@
 </div>
 
 <!-- ANIMATED BANNER -->
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<h1 align="center">
+  
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<h1 align="center">
 <img src="https://github.com/bosstech-collab/name.svg/blob/main/name.svg" width="400" alt="BOSS-MD Logo"/>
 </h1>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
