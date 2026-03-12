@@ -1,21 +1,42 @@
-<svg width="440" height="100" viewBox="0 0 440 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="440" height="100" rx="10" fill="#000000"/>
+<svg width="500" height="120" viewBox="0 0 500 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="120" rx="15" fill="#0a0a0a"/>
+  
   <style>
-    .text {
-      font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    @keyframes hackerGlow {
+      0% { stop-color: #00FF00; } /* Neon Green */
+      50% { stop-color: #00FFFF; } /* Cyan */
+      100% { stop-color: #00FF00; }
+    }
+    @keyframes flicker {
+      0%, 19.999%, 22%, 62.999%, 64%, 64.999%, 70%, 100% { opacity: 0.99; }
+      20%, 21.999%, 63%, 63.999%, 65%, 69.999% { opacity: 0.4; }
+    }
+    .hacker-text {
+      font-family: 'Courier New', monospace;
       font-weight: 900;
-      font-size: 55px;
-      fill: #00FFFF;
+      font-size: 58px;
+      letter-spacing: 5px;
       text-transform: uppercase;
+      animation: flicker 2s infinite;
     }
   </style>
+
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#FF00FF;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#00FFFF;stop-opacity:1" />
+    <linearGradient id="hackerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FF00">
+        <animate attributeName="offset" values="0;1;0" dur="3s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#00FF00;#00FFFF;#00FF00" dur="3s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#00FFFF">
+        <animate attributeName="offset" values="1;0;1" dur="3s" repeatCount="indefinite" />
+        <animate attributeName="stop-color" values="#00FFFF;#00FF00;#00FFFF" dur="3s" repeatCount="indefinite" />
+      </stop>
     </linearGradient>
   </defs>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="text" fill="url(#grad)">
+
+  <rect x="5" y="5" width="490" height="110" rx="10" stroke="url(#hackerGrad)" stroke-width="2" opacity="0.5" />
+
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" class="hacker-text" fill="url(#hackerGrad)">
     USMAN MD
   </text>
 </svg>
