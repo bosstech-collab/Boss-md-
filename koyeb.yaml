@@ -1,6 +1,6 @@
-name: Boss-md
+name: Usman-md
 services:
-  - name: Boss-Hacker-service
+  - name: Usman-Hacker-service
     type: web
     ports:
       - 5000
