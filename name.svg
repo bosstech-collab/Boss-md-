@@ -1,21 +1,27 @@
-<svg width="400" height="100" viewBox="0 0 400 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="500" height="120" viewBox="0 0 500 120" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap');
+    
     @keyframes glow {
-      0% { filter: drop-shadow(0 0 5px #FF00FF) drop-shadow(0 0 10px #00FFFF); }
-      50% { filter: drop-shadow(0 0 20px #FF00FF) drop-shadow(0 0 30px #00FFFF); }
-      100% { filter: drop-shadow(0 0 5px #FF00FF) drop-shadow(0 0 10px #00FFFF); }
+      0% { filter: drop-shadow(0 0 8px #FF00FF) drop-shadow(0 0 12px #00FFFF); }
+      50% { filter: drop-shadow(0 0 25px #FF00FF) drop-shadow(0 0 35px #00FFFF); }
+      100% { filter: drop-shadow(0 0 8px #FF00FF) drop-shadow(0 0 12px #00FFFF); }
     }
     .boss-title {
       animation: glow 3s ease-in-out infinite;
-      font-family: 'Orbitron', sans-serif;
+      font-family: 'Arial Black', sans-serif; /* High compatibility bold font */
       font-weight: 900;
-      font-size: 50px;
+      font-size: 60px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
     }
   </style>
+  
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" 
         class="boss-title" fill="url(#gradient)">
-    BOSS-MD
+    USMAN MD
   </text>
+  
   <defs>
     <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FF00FF">
