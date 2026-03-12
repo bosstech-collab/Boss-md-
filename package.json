@@ -1,12 +1,12 @@
 {
-  "name": "BOSS-MD",
+  "name": "usman-md",
   "version": "5.0.0",
-  "description": "A WhatsApp Bot Created By BOSS-MD",
+  "description": "A WhatsApp Bot Created By 𓄂 𓊈 𝗨𝗦𝗠𝗔𝗡 𝗠𝗗 𓊉 𓆃",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name BOSS-MD",
-    "stop": "pm2 stop BOSS-MD",
-    "restart": "pm2 restart BOSS-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name usman-md",
+    "stop": "pm2 stop usman-md",
+    "restart": "pm2 restart usman-md"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "7.0.0-rc.6",
