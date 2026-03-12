@@ -87,19 +87,19 @@
 <h3>Some of my Projects:</h3>
 
 <a href="https://github.com/Boss-MD/Boss_MD">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arslan-MD&repo=Arslan_MD&theme=dark&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Boss-MD&repo=Arslan_MD&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <a href="https://github.com/Boss-MD/Boss-Tech-Bot">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arslan-MD&repo=Arslan-Tech-Bot&theme=dark&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Boss-MD&repo=Arslan-Tech-Bot&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <a href="https://github.com/Boss-MD/Boss-Ai">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arslan-MD&repo=Arslan-Ai&theme=dark&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Boss-MD&repo=Boss-Ai&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <a href="https://github.com/Boss-MD/IvaSms-api">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arslan-MD&repo=IvaSms-api&theme=dark&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Boss-MD&repo=IvaSms-api&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
