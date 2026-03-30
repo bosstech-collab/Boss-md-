@@ -1,6 +1,6 @@
-<!-- GLOWING DIVIDER - BOSS-MD STYLE -->
+<!-- GLOWING DIVIDER - MARCO MALIK-MD STYLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&pause=1000&color=FF00FF&background=000000&center=true&vCenter=true&width=800&height=50&lines=🚀+WELCOME+TO+BOSS-MD+🚀;⚡+BOSS-MD+PRO+MAX+⚡;💫+BOSS-MD+IS+WORKING+💫" alt="BOSS-MD Header">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&pause=1000&color=FF00FF&background=000000&center=true&vCenter=true&width=800&height=50&lines=🚀+WELCOME+TO+MARCO MALIK-MD+🚀;⚡+MARCO MALIK-MD+PRO+MAX+⚡;💫+MARCO MALIK-MD+IS+WORKING+💫" alt="MARCO MALIK-MD Header">
 </div>
 
 <!-- ANIMATED BANNER -->
@@ -9,13 +9,13 @@
   
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center">
-<img src="https://github.com/bosstech-collab/name.svg/blob/main/name.svg" width="400" alt="BOSS-MD Logo"/>
+<img src="https://github.com/bosstech-collab/name.svg/blob/main/name.svg" width="400" alt="MARCO MALIK-MD Logo"/>
 </h1>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center">
 <!-- GLOWING MAIN BADGE -->
 <div align="center">
-  <img src="https://img.shields.io/badge/🔥_BOSS_MD_ULTRA_PRO_MAX_EDITION-FF00FF?style=for-the-badge&logo=starship&logoColor=white&labelColor=000000" alt="BOSS-MD Ultra Pro Max" />
+  <img src="https://img.shields.io/badge/🔥_MARCO MALIK_MD_ULTRA_PRO_MAX_EDITION-FF00FF?style=for-the-badge&logo=starship&logoColor=white&labelColor=000000" alt="MARCO MALIK-MD Ultra Pro Max" />
 </div>
 
 ---
